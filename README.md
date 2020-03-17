@@ -1,2 +1,6 @@
 README
 =======
+
+```
+git config --list
+```
